@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  height: 768px; 
+  width: 1366px;
+  border: 1px solid rgba(255, 0, 0, 0);/* Set the container height to match the viewport height */
+}
+
+.sidebar {
+  margin-left: -10px;
+  width: 75px;
+  background: #002874;
+  box-shadow: 5px 0px 6px #55555545;
+  color: #ffffff;
+}
+
+
+.contentpart {
+  flex: 1; /* Make the contentpart flex to fill the remaining space */
+}

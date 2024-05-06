@@ -1,0 +1,132 @@
+[
+  {
+    "key": 1,
+    "doc": "../images/clipboard.svg",
+    "phase": "TRANSACTION FOLDER",
+    "status": "Continue....",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  },
+  {
+    "key": 2,
+    "doc": " ",
+    "phase": "Pharse",
+    "status": "Completed",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  },
+  {
+    "key": 3,
+    "doc": "/images/clipboard.svg",
+    "phase": "Pharse",
+    "status": "Continue....",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  },
+  {
+    "key": 4,
+    "doc": " ",
+    "phase": "Pharse",
+    "status": "Completed",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  },
+  {
+    "key": 5,
+    "doc": " ",
+    "phase": "Pharse",
+    "status": "Not started",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  },
+  {
+    "key": 6,
+    "doc": "/images/clipboard.svg",
+    "phase": "Pharse",
+    "status": "Continue....",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  },
+  {
+    "key": 7,
+    "doc": "",
+    "phase": "Pharse",
+    "status": "Continue....",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  },
+  {
+    "key": 8,
+    "doc": "/images/clipboard.svg",
+    "phase": "Pharse",
+    "status": "Undefined",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  },
+  {
+    "key": 9,
+    "doc": "/images/clipboard.svg",
+    "phase": "Pharse",
+    "status": "Not started",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  },
+  {
+    "key": 10,
+    "doc": "/images/clipboard.svg",
+    "phase": "Pharse",
+    "status": "Continue....",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  },
+  {
+    "key": 11,
+    "doc": "/images/clipboard.svg",
+    "phase": "Pharse",
+    "status": "Continue....",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  },
+  {
+    "key": 12,
+    "doc": "/images/clipboard.svg",
+    "phase": "Pharse",
+    "status": "Continue....",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  },
+  {
+    "key": 13,
+    "doc": "/images/clipboard.svg",
+    "phase": "Pharse",
+    "status": "Continue....",
+    "document": " ",
+    "responsibleParty": "few detail about party",
+    "icon": "/images/chat.svg",
+    "updateDate": "02/25/2022"
+  }
+]

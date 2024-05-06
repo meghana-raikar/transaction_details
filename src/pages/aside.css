@@ -1,0 +1,44 @@
+.asidemain{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+   
+}
+#divactive{
+    background: #1f93ff2f;
+   
+}
+
+.homeTransaction{
+    border: 1px solid transparent;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.homeTransactionimg{
+width: 20px;
+height: 20px;
+opacity: 1;
+margin-top: 15px;
+ opacity: 1;
+
+}
+
+.para{
+width: 50px;
+height: 10px;
+text-align: center;
+font: normal normal 600 8px/11px Mecellem;
+letter-spacing: 0px;
+color: #06090F;
+opacity: 1;
+}
+
+#active{
+    color: #1F94FF;
+}
+

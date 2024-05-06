@@ -1,0 +1,196 @@
+.logo {
+  top: 15px;
+  left: 15px;
+  width: 44px;
+  height: 44px;
+  background: transparent url("../../public/images/logo.svg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  margin-left: 13px;
+  margin-top: 15px;
+}
+.transaction {
+  top: 64px;
+  left: 5px;
+  width: 64px;
+  height: 13px;
+
+  text-align: center;
+  font: normal normal 600 11px/13px Mecellem;
+  letter-spacing: 0.28px;
+  color: #ffffff;
+  opacity: 1;
+  margin-left: 2px;
+}
+
+.allicons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.panoramatext {
+  text-align: center;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+/* panorama */
+.panoramalogo {
+  top: 102px;
+  left: 25px;
+  width: 24px;
+  height: 20px;
+  background: transparent url("../../public/images/panorama.svg") 0% 0%
+    no-repeat padding-box;
+  opacity: 1;
+}
+
+.panoramatext,
+.transactiontext,
+.documentstext,
+.emailtext,
+.reportstext,
+.managementtext,
+.calendertext {
+  top: 125px;
+  left: 13px;
+  width: 48px;
+  height: 12px;
+  font: normal normal 600 10px/14px Mecellem;
+}
+
+/* transaction */
+
+.transactionlogo {
+  top: 158px;
+  left: 30px;
+  width: 15px;
+  height: 20px;
+  background: transparent url("../../public/images/transaction.svg") 0% 0%
+    no-repeat padding-box;
+  opacity: 1;
+}
+
+.transactiontext {
+  top: 180px;
+  left: 10px;
+  width: 54px;
+  height: 12px;
+  font: normal normal 600 10px/14px Mecellem;
+}
+
+/* Documents */
+
+.documentslogo {
+  top: 215px;
+  left: 27px;
+  width: 20px;
+  height: 16px;
+  background: transparent url("../../public/images/documents.svg") 0% 0%
+    no-repeat padding-box;
+  opacity: 1;
+}
+
+.documentstext {
+  top: 234px;
+  left: 10px;
+  width: 54px;
+  height: 12px;
+  font: normal normal 600 10px/14px Mecellem;
+}
+
+/* E-mails */
+
+.emaillogo {
+  top: 272px;
+  left: 27px;
+  width: 20px;
+  height: 14px;
+  background: transparent url("../../public/images/email.svg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.emailtext {
+  top: 290px;
+  left: 19px;
+  width: 36px;
+  height: 12px;
+  font: normal normal 600 10px/14px Mecellem;
+}
+
+/* Reports */
+
+.reportslogo {
+  top: 323px;
+  left: 30px;
+  width: 15px;
+  height: 20px;
+  background: transparent url("../../public/images/reports.svg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.reportstext {
+  top: 345px;
+  left: 19px;
+  width: 36px;
+  height: 12px;
+  font: normal normal 600 10px/14px Mecellem;
+}
+
+/* Management panel */
+
+.managementlogo {
+  top: 374px;
+  left: 27px;
+  width: 22px;
+  height: 18px;
+  background: transparent url("../../public/images/management.svg") 0% 0%
+    no-repeat padding-box;
+  opacity: 1;
+  margin-bottom: 1px;
+}
+
+.managementtext {
+  margin-top: 1px;
+  top: 395px;
+  left: 6px;
+  width: 55px;
+  height: 22px;
+  font: normal normal 600 10px/10px Mecellem;
+}
+
+/* Calender */
+
+.calenderlogo {
+  top: 429px;
+  left: 28px;
+  width: 18px;
+  height: 16px;
+  background: transparent url("../../public/images/calender.svg") 0% 0%
+    no-repeat padding-box;
+  opacity: 1;
+   margin-bottom: 1px;
+}
+
+.calendertext {
+  top: 448px;
+  left: 10px;
+  width: 54px;
+  height: 23px; 
+  font: normal normal 600 10px/11px Mecellem;
+}
+
+.profile{
+  height: 40px;
+  width: 40px;
+  border: 2px solid rgb(74, 149, 246);
+  border-radius: 50%;
+  margin-top: 270px;
+  margin-left: 8px;
+  background: url("../../public/images/profile.png");
+}
